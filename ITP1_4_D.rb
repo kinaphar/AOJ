@@ -1,0 +1,1 @@
+gets; puts [(a = gets.split.map(&:to_i)).min, a.max, a.inject(:+)]*" "

@@ -1,0 +1,1 @@
+printf("%.6f %.6f\n", (a = gets.to_f)**2*Math::PI, a*2*Math::PI)
